@@ -1,0 +1,11 @@
+ca-certificates
+git
+gh
+scrcpy
+python@3.9
+mitmproxy
+gawk
+imagemagick
+curl
+wget
+tree
