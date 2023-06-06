@@ -6,3 +6,5 @@ alias la="ls -A --color=auto"
 
 alias nukebinobj="find . -type d -name bin -o -name obj | xargs rm -r > /dev/null"
 alias updatelocate="sudo launchctl load -w /System/Library/LaunchDaemons/com.apple.locate.plist"
+
+alias history="history 1"
