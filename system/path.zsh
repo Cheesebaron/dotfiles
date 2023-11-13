@@ -1,5 +1,6 @@
 export ANDROID_SDK="/Users/tomaszcielecki/Library/Developer/Xamarin/android-sdk-macosx/"
 export ANDROID_HOME=$ANDROID_SDK
+export ANDROID_NDK="$ANDROID_SDK/ndk/26.1.10909125/"
 export PATH="$ANDROID_SDK/tools:$ANDROID_SDK/platform-tools:$PATH:$ANDROID_SDK/cmdline-tools/latest/bin"
 
 export DOTNET_TOOLS="/Users/tomaszcielecki/.dotnet/tools"
